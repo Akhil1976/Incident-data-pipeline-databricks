@@ -123,6 +123,9 @@ All five notebooks are orchestrated as a single Databricks Job with sequential t
 
 Each task runs only if the preceding task succeeds, ensuring no invalid data propagates downstream.
 
+![Workflow Graph](screenshots/workflow_graph.png)
+*All 5 pipeline stages executing successfully via Databricks Workflows*
+
 ---
 
 ## 🧱 Tech Stack
@@ -159,6 +162,9 @@ Incident-data-pipeline-databricks/
 └── README.md
 ```
 
+![Catalog Tables](screenshots/catalog_tables.png)
+*All 5 Delta tables organized under Unity Catalog → workspace → realproject_schema*
+
 ---
 
 ## 📊 Sample Results
@@ -172,6 +178,9 @@ Incident-data-pipeline-databricks/
 | Gold | `gold_incidents` | 129 aggregated rows |
 
 **Validation:** `32,100 (Bronze) = 32,000 (Silver) + 100 (Quarantine)` ✅
+
+![Gold Output](screenshots/gold_output.png)
+*Sample Gold layer aggregation — incident count by priority*
 
 ---
 
