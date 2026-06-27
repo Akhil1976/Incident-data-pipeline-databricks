@@ -1,0 +1,106 @@
+Number,Opened,short_description,Caller,User ID,Priority,State,Category,Assignment group,Assigned to,Channel,Service,Service Family,Service Subcategory,Updated,Updated by
+INC1000000,2023-10-29 00:47:00,VPN connection failing,Mike Johnson,U671858,4 - Low,Closed,Inquiry / Help,SOCteam,Emma Smith,,Network Services,,Access Request,2023-11-21 12:47:00,
+INC1000001,2023-12-11 00:48:00,Email delivery delayed,Tom Davis,U325772,3 - Moderate,Resolved,Inquiry / Help,ETL_Support,John Wilson,,IT Support,,Connectivity,2024-02-17 19:48:00,U678856
+INC1000002,2024-01-01 18:12:00,Application crashing on launch,Priya Brown,U996865,4 - Low,Resolved,Inquiry / Help,,Mike Davis,Self-Service,Network Services,End User Support,Connectivity,2024-03-01 21:12:00,
+INC1000003,2023-11-13 17:46:00,Account locked out,Tom Brown,U771088,4 - Low,Resolved,Inquiry / Help,GNOCIM,John Davis,Chat,Cloud Platform,Infrastructure,Access Request,2023-12-04 15:46:00,
+INC1000004,2023-12-20 06:41:00,Account locked out,Lisa Patel,U358607,4 - Low,Canceled,Inquiry / Help,Tech-Support-L1,Priya Patel,,,Infrastructure,Connectivity,2024-01-31 21:41:00,admin
+INC1000005,2023-11-10 21:27:00,Unable to access shared drive,Tom Wilson,U680099,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Anjali Johnson,Self-Service,,Application,,2023-12-31 19:27:00,
+INC1000006,2023-12-07 16:48:00,Server disk space alert,Sarah Brown,U632323,4 - Low,Resolved,Inquiry / Help,Tech-Support-L1,Raj Smith,,Cloud Platform,,Connectivity,2023-12-22 22:48:00,U217301
+INC1000007,2023-12-18 07:03:00,VPN connection failing,Sarah Johnson,U955662,4 - Low,Canceled,Inquiry / Help,SOCteam,Raj Patel,Self-Service,,Application,Access Request,2024-01-07 21:03:00,U847581
+INC1000008,2024-01-11 21:41:00,VPN connection failing,Raj Wilson,U335612,4 - Low,Canceled,Inquiry / Help,Tech-Support-L1,Sarah Smith,Phone,IT Support,Infrastructure,Performance Issue,2024-02-12 18:41:00,
+INC1000009,2023-11-30 08:42:00,Slow network performance,Mike Wilson,U595948,4 - Low,Closed,Inquiry / Help,ETL_Support,Lisa Smith,Email,IT Support,,Performance Issue,2024-01-10 19:42:00,admin
+INC1000010,2023-12-03 06:12:00,VPN connection failing,Tom Patel,U361941,4 - Low,Canceled,Inquiry / Help,,John Johnson,Phone,Network Services,,,2024-01-18 01:12:00,admin
+INC1000011,2024-01-11 01:10:00,Software installation request,,U922157,4 - Low,Canceled,Software,Tech-Support-L1,Lisa Patel,Phone,Cloud Platform,Application,Connectivity,2024-02-12 10:10:00,
+INC1000012,2024-02-16 01:47:00,Account locked out,Emma Wilson,U994141,4 - Low,Canceled,Inquiry / Help,SOCteam,,Email,Network Services,,Connectivity,2024-03-13 20:47:00,admin
+INC1000013,2024-02-26 19:02:00,,Emma Davis,U314181,4 - Low,Closed,Inquiry / Help,SOCteam,David Wilson,Self-Service,IT Support,Infrastructure,,2024-04-19 16:02:00,
+INC1000014,2023-10-26 02:34:00,Email delivery delayed,Mike Davis,U356150,4 - Low,Resolved,Inquiry / Help,,Raj Smith,,Cloud Platform,Infrastructure,Access Request,2023-11-13 07:34:00,admin
+INC1000015,2023-10-28 23:35:00,,Emma Kumar,U313487,4 - Low,Resolved,Inquiry / Help,ETL_Support,John Johnson,Chat,Cloud Platform,Infrastructure,Connectivity,2023-11-11 06:35:00,admin
+INC1000016,2023-12-07 05:47:00,Password reset request,Tom Smith,U824586,4 - Low,Resolved,Inquiry / Help,SOCteam,John Brown,Self-Service,IT Support,End User Support,Access Request,2024-01-13 22:47:00,admin
+INC1000017,2023-10-27 11:49:00,Password reset request,Tom Patel,U348237,4 - Low,Closed,Network,GNOCIM,Anjali Singh,Phone,Cloud Platform,Application,Connectivity,2023-12-14 06:49:00,admin
+INC1000018,2024-01-29 07:12:00,Application crashing on launch,Anjali Brown,U338651,2 - High,Closed,Inquiry / Help,ETL_Support,David Davis,,,End User Support,Connectivity,2024-04-08 00:12:00,U220944
+INC1000019,2023-11-15 18:16:00,Slow network performance,Tom Davis,U428914,4 - Low,Canceled,Inquiry / Help,Tech-Support-L1,John Singh,Email,Network Services,End User Support,,2023-11-19 01:16:00,
+INC1000020,2023-12-24 19:20:00,Slow network performance,David Brown,U442027,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Tom Patel,,Cloud Platform,,Connectivity,2024-02-19 10:20:00,U418635
+INC1000021,2023-11-23 13:50:00,Application crashing on launch,Anjali Wilson,U808446,4 - Low,Canceled,Inquiry / Help,GNOCIM,Emma Davis,Email,Network Services,End User Support,Access Request,2024-01-12 01:50:00,admin
+INC1000022,2023-11-07 00:02:00,Server disk space alert,Emma Johnson,U760356,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,John Johnson,Chat,Network Services,Application,,2023-11-27 22:02:00,
+INC1000023,2023-12-03 03:29:00,Server disk space alert,Raj Davis,U564071,4 - Low,Canceled,Inquiry / Help,Tech-Support-L1,Mike Wilson,Chat,Cloud Platform,Application,Performance Issue,2023-12-14 13:29:00,
+INC1000024,2024-02-02 20:15:00,Account locked out,David Kumar,U435239,3 - Moderate,Closed,Inquiry / Help,,Priya Johnson,Chat,,End User Support,,2024-02-26 07:15:00,admin
+INC1000025,2023-11-22 13:24:00,Printer not responding,John Singh,U468845,4 - Low,Resolved,Inquiry / Help,,Emma Kumar,Chat,Network Services,End User Support,,2024-02-07 19:24:00,admin
+INC1000026,2024-01-08 10:42:00,Account locked out,Mike Wilson,U752483,2 - High,Resolved,Inquiry / Help,,,Chat,Network Services,,Access Request,2024-03-06 09:42:00,U152727
+INC1000027,2024-01-06 10:13:00,Slow network performance,Tom Brown,U972335,4 - Low,Closed,Inquiry / Help,,Anjali Kumar,Email,IT Support,Infrastructure,Access Request,2024-02-14 06:13:00,admin
+INC1000028,2023-11-09 07:08:00,Email delivery delayed,Emma Kumar,U368690,4 - Low,Canceled,Software,,Mike Brown,Email,IT Support,End User Support,,2023-12-19 17:08:00,
+INC1000029,2023-11-20 02:37:00,,Priya Johnson,U416232,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Anjali Singh,Self-Service,IT Support,End User Support,Connectivity,2024-01-18 01:37:00,U990844
+INC1000030,2024-02-03 03:27:00,Account locked out,Lisa Patel,U869440,4 - Low,Resolved,Inquiry / Help,Tech-Support-L1,Lisa Singh,,Cloud Platform,End User Support,Access Request,2024-04-25 03:27:00,admin
+INC1000031,2023-12-11 14:15:00,Email delivery delayed,Emma Singh,U618317,4 - Low,Closed,Inquiry / Help,ETL_Support,Emma Brown,,IT Support,Application,Connectivity,2024-02-13 15:15:00,
+INC1000032,2024-01-13 15:35:00,VPN connection failing,Lisa Wilson,U118080,4 - Low,Resolved,Inquiry / Help,ETL_Support,Anjali Wilson,,Cloud Platform,,Performance Issue,2024-03-18 08:35:00,
+INC1000033,2024-01-25 08:19:00,Password reset request,Priya Davis,U661894,4 - Low,Canceled,Inquiry / Help,,Raj Brown,Email,Network Services,End User Support,Access Request,2024-02-15 19:19:00,admin
+INC1000034,2023-12-17 00:45:00,Password reset request,John Smith,U831295,4 - Low,Resolved,Inquiry / Help,GNOCIM,Lisa Wilson,Chat,Cloud Platform,Application,Connectivity,2024-01-31 14:45:00,U364742
+INC1000035,2023-10-30 02:25:00,Printer not responding,John Patel,U690180,3 - Moderate,Closed,Inquiry / Help,CIO-DevOps_L2,Emma Kumar,,,,,2023-12-11 02:25:00,
+INC1000036,2024-01-18 09:36:00,,Sarah Kumar,U377501,3 - Moderate,Closed,Inquiry / Help,GNOCIM,Tom Wilson,,,End User Support,Connectivity,2024-03-11 09:36:00,U342720
+INC1000037,2023-12-12 22:55:00,Server disk space alert,Priya Brown,U755420,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Mike Brown,Phone,IT Support,Infrastructure,Access Request,2024-01-20 16:55:00,U931131
+INC1000038,2024-02-23 09:28:00,Account locked out,David Singh,U624783,4 - Low,Closed,Inquiry / Help,CIO-DevOps_L2,Emma Brown,Email,IT Support,Application,Connectivity,2024-03-05 00:28:00,
+INC1000039,2023-12-08 18:02:00,Server disk space alert,Lisa Wilson,U290305,4 - Low,Resolved,Software,CIO-DevOps_L2,Anjali Davis,Email,Network Services,End User Support,,2024-02-11 21:02:00,U827369
+INC1000040,2023-12-13 21:25:00,Email delivery delayed,John Wilson,U364659,3 - Moderate,Resolved,Network,GNOCIM,Raj Wilson,Chat,IT Support,Application,Performance Issue,2024-02-21 08:25:00,U752878
+INC1000041,2024-01-22 01:13:00,VPN connection failing,David Wilson,U608257,2 - High,Canceled,Inquiry / Help,SOCteam,David Smith,,,Infrastructure,Access Request,2024-02-13 20:13:00,admin
+INC1000042,2024-01-27 03:41:00,Software installation request,David Brown,U605937,4 - Low,Canceled,Inquiry / Help,SOCteam,Raj Patel,Email,Cloud Platform,,Performance Issue,2024-04-07 04:41:00,
+INC1000043,2023-12-08 00:18:00,Account locked out,Emma Wilson,U568238,4 - Low,Resolved,Inquiry / Help,Tech-Support-L1,Anjali Kumar,Phone,,Application,,2024-02-07 23:18:00,U145767
+INC1000044,2024-01-30 22:58:00,Account locked out,Mike Wilson,U232378,4 - Low,Resolved,Network,CIO-DevOps_L2,Lisa Smith,Phone,,Application,Connectivity,2024-04-09 04:58:00,U592296
+INC1000045,2023-12-26 19:44:00,Software installation request,Anjali Singh,U757246,4 - Low,Closed,Inquiry / Help,SOCteam,David Kumar,Email,,Infrastructure,Connectivity,2024-01-29 18:44:00,admin
+INC1000046,2023-12-16 00:02:00,Application crashing on launch,David Davis,U252640,4 - Low,Canceled,Inquiry / Help,SOCteam,Sarah Singh,,Network Services,,Access Request,2024-01-12 17:02:00,U343467
+INC1000047,2023-12-05 14:16:00,,,U401603,4 - Low,Closed,Inquiry / Help,ETL_Support,David Singh,Self-Service,,End User Support,Access Request,2024-01-31 12:16:00,U503380
+INC1000048,2023-10-28 07:24:00,,David Brown,,4 - Low,Closed,Inquiry / Help,,John Wilson,Self-Service,Network Services,End User Support,Access Request,2023-12-16 03:24:00,admin
+INC1000049,2023-12-04 21:48:00,Unable to access shared drive,Mike Johnson,U777737,4 - Low,Resolved,Inquiry / Help,ETL_Support,Sarah Brown,Self-Service,,Application,Access Request,2024-02-04 10:48:00,
+INC1000050,2024-01-02 16:32:00,Printer not responding,Mike Brown,U605254,4 - Low,Resolved,Inquiry / Help,CIO-DevOps_L2,Mike Kumar,Chat,Cloud Platform,Infrastructure,,2024-03-20 15:32:00,U114594
+INC1000051,2024-02-15 03:29:00,VPN connection failing,David Singh,U489518,4 - Low,Resolved,Inquiry / Help,Tech-Support-L1,Emma Kumar,Email,,End User Support,,2024-03-17 14:29:00,admin
+INC1000052,2023-10-12 01:19:00,,Priya Patel,U489033,4 - Low,Canceled,Hardware,CIO-DevOps_L2,Mike Singh,Email,,,Performance Issue,2023-11-23 02:19:00,
+INC1000053,2024-01-03 06:28:00,Account locked out,Anjali Johnson,U485178,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Sarah Wilson,Email,Network Services,Infrastructure,Connectivity,2024-02-10 05:28:00,U925013
+INC1000054,2023-12-02 04:50:00,Application crashing on launch,Raj Kumar,U952547,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,,Phone,Network Services,End User Support,Access Request,2024-01-19 09:50:00,
+INC1000055,2023-10-07 04:00:00,Printer not responding,Priya Davis,,3 - Moderate,Canceled,Inquiry / Help,GNOCIM,Lisa Wilson,Self-Service,IT Support,,Access Request,2023-11-06 18:00:00,admin
+INC1000056,2024-02-11 09:29:00,,John Wilson,U546980,3 - Moderate,Canceled,Hardware,GNOCIM,Anjali Patel,Email,Network Services,End User Support,Performance Issue,2024-04-06 07:29:00,
+INC1000057,2024-02-13 09:29:00,Account locked out,Sarah Johnson,U782535,4 - Low,Closed,Inquiry / Help,SOCteam,Lisa Singh,Chat,IT Support,End User Support,,2024-03-27 13:29:00,
+INC1000058,2023-12-05 11:09:00,Slow network performance,Sarah Johnson,U197758,3 - Moderate,Canceled,Inquiry / Help,SOCteam,Emma Davis,Email,,End User Support,,2024-02-02 02:09:00,admin
+INC1000059,2023-12-13 19:19:00,Application crashing on launch,Raj Kumar,U605612,4 - Low,Resolved,Inquiry / Help,ETL_Support,David Kumar,Chat,IT Support,End User Support,Connectivity,2024-01-12 20:19:00,U289179
+INC1000060,2023-12-19 10:22:00,,Mike Singh,U876962,4 - Low,Closed,Inquiry / Help,SOCteam,Lisa Davis,Phone,Cloud Platform,End User Support,Performance Issue,2023-12-19 23:22:00,
+INC1000061,2023-10-22 01:09:00,Slow network performance,John Johnson,U794093,4 - Low,Resolved,Inquiry / Help,SOCteam,Sarah Davis,Chat,IT Support,End User Support,,2023-11-04 12:09:00,
+INC1000062,2023-12-18 01:14:00,Password reset request,John Smith,U321494,4 - Low,Resolved,Inquiry / Help,GNOCIM,Tom Patel,Phone,,Application,Performance Issue,2024-01-20 19:14:00,U175576
+INC1000063,2023-10-11 13:01:00,,Anjali Singh,U843963,4 - Low,Closed,Inquiry / Help,ETL_Support,Emma Wilson,Self-Service,IT Support,,Connectivity,2023-11-19 19:01:00,U355135
+INC1000064,2024-02-28 12:33:00,Password reset request,David Davis,U916964,3 - Moderate,Canceled,Inquiry / Help,Tech-Support-L1,Anjali Davis,Phone,Network Services,Infrastructure,Access Request,2024-03-06 06:33:00,admin
+INC1000065,2023-11-14 19:09:00,Software installation request,Sarah Patel,U758452,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Emma Davis,Self-Service,Network Services,,Connectivity,2024-01-18 16:09:00,U591699
+INC1000066,2023-12-17 08:37:00,Unable to access shared drive,Sarah Brown,U139434,4 - Low,Resolved,Inquiry / Help,GNOCIM,Raj Singh,Chat,IT Support,,Access Request,2023-12-22 04:37:00,
+INC1000067,2024-01-30 16:09:00,Account locked out,Sarah Davis,U188425,4 - Low,Closed,Inquiry / Help,CIO-DevOps_L2,Raj Patel,Self-Service,Cloud Platform,End User Support,,2024-04-21 10:09:00,U528625
+INC1000068,2023-10-14 20:41:00,,Sarah Singh,U858889,4 - Low,Canceled,Network,ETL_Support,Mike Davis,Self-Service,,Application,Connectivity,2023-11-12 10:41:00,
+INC1000069,2024-01-05 20:50:00,Account locked out,Raj Johnson,U543973,4 - Low,Resolved,Inquiry / Help,SOCteam,Lisa Kumar,Phone,Network Services,Application,Connectivity,2024-02-02 21:50:00,admin
+INC1000070,2024-02-07 17:53:00,Password reset request,John Davis,U748052,4 - Low,Closed,Inquiry / Help,,Mike Wilson,Email,,End User Support,Access Request,2024-04-10 18:53:00,
+INC1000071,2023-12-12 23:50:00,Software installation request,Priya Brown,U922471,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Lisa Brown,Chat,,Application,Access Request,2024-01-20 07:50:00,
+INC1000072,2023-11-05 08:03:00,VPN connection failing,Anjali Johnson,U640970,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Tom Johnson,Phone,,End User Support,Connectivity,2023-12-30 02:03:00,admin
+INC1000073,2024-01-10 16:23:00,VPN connection failing,Sarah Davis,U434165,4 - Low,Canceled,Inquiry / Help,SOCteam,David Wilson,Phone,,,Connectivity,2024-01-30 19:23:00,admin
+INC1000074,2023-12-05 06:53:00,Application crashing on launch,Emma Singh,U402096,4 - Low,Closed,Inquiry / Help,,Lisa Johnson,Email,,Infrastructure,Access Request,2023-12-18 01:53:00,admin
+INC1000075,2023-12-14 13:00:00,VPN connection failing,Emma Singh,U800674,4 - Low,Resolved,Inquiry / Help,Tech-Support-L1,Raj Smith,Chat,,Infrastructure,,2024-02-05 01:00:00,U491435
+INC1000076,2023-10-05 11:50:00,Account locked out,Sarah Davis,U469412,4 - Low,Canceled,Inquiry / Help,,Lisa Patel,Phone,IT Support,,Connectivity,2023-10-11 06:50:00,admin
+INC1000077,2023-10-12 06:56:00,Software installation request,David Singh,U669408,4 - Low,Canceled,Inquiry / Help,ETL_Support,John Davis,Self-Service,IT Support,End User Support,,2023-10-15 20:56:00,
+INC1000078,2024-01-21 12:21:00,Printer not responding,Lisa Davis,U644500,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Mike Brown,Self-Service,IT Support,Infrastructure,Performance Issue,2024-04-13 15:21:00,U793024
+INC1000079,2023-12-18 14:38:00,Email delivery delayed,Lisa Davis,U862120,4 - Low,Resolved,Inquiry / Help,GNOCIM,,Chat,Cloud Platform,Application,Connectivity,2024-02-17 20:38:00,
+INC1000080,2024-01-21 01:08:00,Unable to access shared drive,Anjali Davis,U694799,4 - Low,Canceled,Inquiry / Help,ETL_Support,Sarah Patel,,Cloud Platform,,Performance Issue,2024-01-26 19:08:00,U781113
+INC1000081,2023-12-03 03:01:00,Printer not responding,Raj Singh,U223481,4 - Low,Canceled,Inquiry / Help,Tech-Support-L1,Lisa Kumar,Email,Network Services,Infrastructure,,2024-02-03 22:01:00,
+INC1000082,2024-01-22 02:51:00,Account locked out,Anjali Davis,U676713,4 - Low,Resolved,Network,,Mike Davis,,Network Services,Infrastructure,Access Request,2024-03-20 07:51:00,admin
+INC1000083,2023-11-30 15:01:00,Password reset request,Anjali Wilson,U678443,4 - Low,Closed,Inquiry / Help,CIO-DevOps_L2,Lisa Singh,Chat,IT Support,Application,Performance Issue,2023-12-31 11:01:00,admin
+INC1000084,2024-01-24 14:43:00,Slow network performance,Raj Patel,U235300,4 - Low,Closed,Inquiry / Help,Tech-Support-L1,Mike Patel,Self-Service,Network Services,End User Support,Performance Issue,2024-03-08 18:43:00,admin
+INC1000085,2023-12-04 06:40:00,Account locked out,Mike Brown,U197966,4 - Low,Canceled,Hardware,SOCteam,Emma Davis,,IT Support,Infrastructure,Connectivity,2024-02-23 21:40:00,
+INC1000086,2024-02-25 08:41:00,Account locked out,Tom Smith,U757629,4 - Low,Resolved,Inquiry / Help,,Lisa Johnson,Email,Network Services,,,2024-03-14 08:41:00,U607774
+INC1000087,2023-11-22 10:38:00,Email delivery delayed,Anjali Davis,U237118,4 - Low,Closed,Inquiry / Help,CIO-DevOps_L2,Lisa Kumar,Phone,IT Support,Infrastructure,Performance Issue,2023-12-04 17:38:00,
+INC1000088,2024-01-16 07:55:00,Software installation request,Anjali Davis,U267082,4 - Low,Resolved,Inquiry / Help,ETL_Support,Sarah Singh,,,Application,Access Request,2024-04-02 07:55:00,U711680
+INC1000089,2023-10-13 01:18:00,VPN connection failing,Lisa Brown,U988324,4 - Low,Resolved,Inquiry / Help,CIO-DevOps_L2,Tom Smith,,Network Services,End User Support,Performance Issue,2023-11-24 07:18:00,U177103
+INC1000090,2024-02-07 14:48:00,Slow network performance,Emma Johnson,U201377,4 - Low,Resolved,Inquiry / Help,ETL_Support,Priya Singh,,IT Support,Infrastructure,Connectivity,2024-03-25 13:48:00,
+INC1000091,2023-12-25 15:33:00,Email delivery delayed,Raj Patel,U742848,4 - Low,Canceled,Inquiry / Help,ETL_Support,Raj Wilson,,Cloud Platform,,Connectivity,2024-02-02 15:33:00,U486251
+INC1000092,2023-10-29 13:37:00,Server disk space alert,John Wilson,U787436,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Emma Singh,Phone,Network Services,Infrastructure,Connectivity,2023-11-24 20:37:00,admin
+INC1000093,2024-01-21 10:26:00,Software installation request,Priya Singh,U741181,4 - Low,Canceled,Inquiry / Help,,Priya Davis,Chat,,End User Support,Access Request,2024-02-03 09:26:00,
+INC1000094,2023-12-27 17:22:00,Printer not responding,David Wilson,U358494,4 - Low,Closed,Hardware,ETL_Support,Priya Wilson,Self-Service,,End User Support,Performance Issue,2024-02-23 10:22:00,admin
+INC1000095,2024-02-24 21:34:00,Password reset request,Tom Davis,U943700,4 - Low,Resolved,Software,GNOCIM,Lisa Brown,Chat,Network Services,Application,Performance Issue,2024-03-28 07:34:00,
+INC1000096,2023-12-09 04:06:00,Application crashing on launch,Priya Kumar,U656837,4 - Low,Closed,Inquiry / Help,ETL_Support,Sarah Patel,Email,Network Services,,,2024-01-30 17:06:00,
+INC1000097,2023-11-21 09:20:00,Unable to access shared drive,Sarah Kumar,U858243,4 - Low,Closed,Inquiry / Help,SOCteam,John Singh,Chat,Network Services,End User Support,Connectivity,2023-12-15 18:20:00,U109717
+INC1000098,2024-02-23 19:06:00,Account locked out,David Wilson,U669691,4 - Low,Closed,Network,CIO-DevOps_L2,Sarah Davis,Phone,,End User Support,Access Request,2024-05-13 01:06:00,
+INC1000099,2023-12-26 09:36:00,Email delivery delayed,Mike Singh,U640310,3 - Moderate,Canceled,Inquiry / Help,SOCteam,Priya Smith,Self-Service,,Application,,2024-02-21 23:36:00,U890371
+INC1000042,2024-01-27 03:41:00,Software installation request,David Brown,U605937,4 - Low,Canceled,Inquiry / Help,SOCteam,Raj Patel,Email,Cloud Platform,,Performance Issue,2024-04-07 04:41:00,
+INC1000038,2024-02-23 09:28:00,Account locked out,David Singh,U624783,4 - Low,Closed,Inquiry / Help,CIO-DevOps_L2,Emma Brown,Email,IT Support,Application,Connectivity,2024-03-05 00:28:00,
+INC1000074,2023-12-05 06:53:00,Application crashing on launch,Emma Singh,U402096,4 - Low,Closed,Inquiry / Help,,Lisa Johnson,Email,,Infrastructure,Access Request,2023-12-18 01:53:00,admin
+INC1000092,2023-10-29 13:37:00,Server disk space alert,John Wilson,U787436,4 - Low,Canceled,Inquiry / Help,CIO-DevOps_L2,Emma Singh,Phone,Network Services,Infrastructure,Connectivity,2023-11-24 20:37:00,admin
+INC1000073,2024-01-10 16:23:00,VPN connection failing,Sarah Davis,U434165,4 - Low,Canceled,Inquiry / Help,SOCteam,David Wilson,Phone,,,Connectivity,2024-01-30 19:23:00,admin
